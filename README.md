@@ -14,4 +14,4 @@ Preview:
 ![](src/images/digi4.PNG)
 ![](src/images/digi5.PNG)
 ![](src/images/digi6.PNG)
-![](src/images/digi7.PNG)
+
